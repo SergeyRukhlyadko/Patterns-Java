@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dc9fd08-fb24-48b5-928a-d410103b1d5c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Patterns-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/Chain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/FirstClassInChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/SecondClassInChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/ThirdClassInChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/command/ApplicationCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/command/PrintCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/FurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/ModernChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/ModernFurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/ModernSofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/ModernTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/Sofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/VictorianChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/VictorianFurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/VictorianSofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstract_factory/VictorianTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/Desk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/DeskBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/DeskBuilderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/DeskDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/DeskManual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/DeskManualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/Manufactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory_method/Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory_method/AmericanoCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory_method/Cafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory_method/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory_method/CoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory_method/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory_method/EspressoCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/prototype/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/prototype/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/PrinterAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/ReportPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Desk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/DeskBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/DeskBuilderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/DeskDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/DeskDirectorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/CompositeSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/Headphones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/DecoratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/Combo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/DownArrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/GamePad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/LeftArrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/RightArrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/facade/UpArrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/flyweight/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/flyweight/Forest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/flyweight/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/flyweight/TreeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/flyweight/TreeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/proxy/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/proxy/CommandLineHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/proxy/CommandLineHandlerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/proxy/CommandLineHandlerProxy.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1678" />
+    <option name="height" value="1008" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Patterns-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Patterns-Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Patterns-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rukhlyadkosn\IdeaProjects\Patterns-Java\.idea" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dc9fd08-fb24-48b5-928a-d410103b1d5c" name="Default" comment="" />
+      <created>1554985442391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554985442391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../SHA512/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Patterns-Java.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
